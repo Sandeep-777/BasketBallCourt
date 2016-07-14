@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1424363818 source:e:\cgproject\final_basketball\mycamera.cpp
+	"MyCamera.h"
+
+1424277569 e:\cgproject\final_basketball\mycamera.h
+	<iostream>
+	<vector>
+	<Eigen/Dense>
+	"MyFunctions.h"
+
+1424588156 e:\cgproject\final_basketball\myfunctions.h
+	<iostream>
+	<cmath>
+	<SDL/SDL.h>
+	<Eigen/Dense>
+
+1424532963 source:e:\cgproject\final_basketball\mydraw.cpp
+	"MyDraw.h"
+
+1424532991 e:\cgproject\final_basketball\mydraw.h
+	"MyFunctions.h"
+	<iostream>
+	<vector>
+
+1424362968 source:e:\cgproject\final_basketball\myobjects.cpp
+
+1424278618 source:e:\cgproject\final_basketball\mytransformations.cpp
+	"MyTransformations.h"
+
+1424411378 e:\cgproject\final_basketball\mytransformations.h
+	<vector>
+	<Eigen/Dense>
+	<cmath>
+	"MyFunctions.h"
+
+1424588158 source:e:\cgproject\final_basketball\main.cpp
+	"MyFunctions.h"
+	"MyDraw.h"
+	"MyObjects.h"
+	"MyTransformations.h"
+
+1424588380 e:\cgproject\final_basketball\myobjects.h
+	"MyFunctions.h"
+	"MyDraw.h"
+	<iostream>
+	<vector>
+
+1424533908 source:e:\cgproject\final_basketball\myfunctions.cpp
+	"MyFunctions.h"
+
