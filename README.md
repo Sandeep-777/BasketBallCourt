@@ -4,7 +4,7 @@ A simple C++ program that uses pixel drawing function of SDL along with eigen li
 
   Keys                     |  Ball
 :-------------------------:|:-------------------------:
-<img src="https://github.com/Sandeep-777/BasketBallCourt/blob/master/sample_images/Keys.png" width="400">  |  <img src="https://github.com/Sandeep-777/BasketBallCourt/blob/master/sample_images/ball.png" width="400"> 
+<img src="https://github.com/Sandeep-777/BasketBallCourt/blob/master/sample_images/key.png" width="400">  |  <img src="https://github.com/Sandeep-777/BasketBallCourt/blob/master/sample_images/ball.png" width="400"> 
 
  Front View	           |  Side View
 :-------------------------:|:-------------------------:
